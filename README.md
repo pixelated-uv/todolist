@@ -3,7 +3,7 @@
 ## Install 
 
 ```sh
-git clone https://github.com/pixelated-uv/todolist-.git
+git clone https://github.com/pixelated-uv/todolist.git
 cd todolist
 make
 ```
