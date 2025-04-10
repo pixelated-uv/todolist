@@ -1,0 +1,18 @@
+# Ignore the target directory (build artifacts)
+target/
+
+# Ignore backup or swap files (common with Vim, Neovim, etc.)
+*.swp
+*.swo
+
+# Ignore temporary files
+*.tmp
+*.log
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore the binary if you accidentally build into the project root
+todolist
+
