@@ -10,12 +10,15 @@ make
 
 ## Usage 
 
-"add" or "add task"  ->  add a task in the list.
+1) "add" or "new"   ->   add a task in the list.
+    you can also use "add {task}" to skip one step and add a task straight away.
 
-"mark done" or "done" or "complete"  ->  set the status of the task to true
+2) "done" or "complete"   ->   set the status of the task to true.
+    you can also use "done {index of task}" to skip one step and mark a task as complete straight away.
 
-"quit"/"cancel"/"close"/"clear"  ->  close the program
+3) "rm" or "remove" or "delete"   ->   remove a task from then task list.
+    you can also use "rm {index}" to skip one step and remove a task from your list.
 
-"remove" or "delete"  ->  remove a task from then task list 
+4) "quit"/"cancel"/"close"/"clear"   ->   close the program.
 
-"list"  ->  list the current tasks in your list.
+5) "list" or "ls"  ->  list the current tasks in your list.
